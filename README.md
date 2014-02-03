@@ -4,7 +4,7 @@ docker-megaraid_status
 Check status of MegaRAID controller<br />
 Uses MegaCLI and check_megaraid plugin from NagiosExchange.
 
-== Usage
+### Usage
 ```bash
 docker run -privileged -i -t cpuguy83/megaraid_status
 ```
